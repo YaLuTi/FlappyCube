@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 759b6668fc44fc146bd5eb1a95496729
+timeCreated: 1519741526
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.001_end
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.005
+    100016: Bone.005.L
+    100018: Bone.005.R.001
+    100020: Bone.005_end
+    100022: Bone.006.L
+    100024: Bone.006.L.001
+    100026: Bone.006.L.001_end
+    100028: Bone.006.L_end
+    100030: Bone.006.R.002
+    100032: Bone.006.R.002_end
+    100034: Bone.006.R.003
+    100036: Bone.006.R.003_end
+    100038: Bone.007.L
+    100040: Bone.007.L.001
+    100042: Bone.007.L.001_end
+    100044: Bone.007.L_end
+    100046: Bone.007.R.002
+    100048: Bone.007.R.002_end
+    100050: Bone.007.R.003
+    100052: Bone.007.R.003_end
+    100054: Bone.008.L
+    100056: Bone.008.L_end
+    100058: Bone.008.R.001
+    100060: Bone.008.R.001_end
+    100062: Bone.009.L
+    100064: Bone.009.L_end
+    100066: Bone.009.R.001
+    100068: Bone.009.R.001_end
+    100070: Bone.010.L
+    100072: Bone.010.L_end
+    100074: Bone.010.R.001
+    100076: Bone.010.R.001_end
+    100078: Bone.011.L
+    100080: Bone.011.L_end
+    100082: Bone.011.R.001
+    100084: Bone.011.R.001_end
+    100086: //RootNode
+    100088: Plane
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.001_end
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.005
+    400016: Bone.005.L
+    400018: Bone.005.R.001
+    400020: Bone.005_end
+    400022: Bone.006.L
+    400024: Bone.006.L.001
+    400026: Bone.006.L.001_end
+    400028: Bone.006.L_end
+    400030: Bone.006.R.002
+    400032: Bone.006.R.002_end
+    400034: Bone.006.R.003
+    400036: Bone.006.R.003_end
+    400038: Bone.007.L
+    400040: Bone.007.L.001
+    400042: Bone.007.L.001_end
+    400044: Bone.007.L_end
+    400046: Bone.007.R.002
+    400048: Bone.007.R.002_end
+    400050: Bone.007.R.003
+    400052: Bone.007.R.003_end
+    400054: Bone.008.L
+    400056: Bone.008.L_end
+    400058: Bone.008.R.001
+    400060: Bone.008.R.001_end
+    400062: Bone.009.L
+    400064: Bone.009.L_end
+    400066: Bone.009.R.001
+    400068: Bone.009.R.001_end
+    400070: Bone.010.L
+    400072: Bone.010.L_end
+    400074: Bone.010.R.001
+    400076: Bone.010.R.001_end
+    400078: Bone.011.L
+    400080: Bone.011.L_end
+    400082: Bone.011.R.001
+    400084: Bone.011.R.001_end
+    400086: //RootNode
+    400088: Plane
+    4300000: Plane
+    7400000: Armature|Idle
+    7400002: Armature|Morph
+    7400004: Armature|Morph.001
+    7400006: Armature|Morph.002
+    7400008: Armature|Morph.003
+    9500000: //RootNode
+    13700000: Plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Home-Rex-B
+    second: {fileID: 2100000, guid: b297c0ab9010e044a8b781e8eb46dc96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Home-Rex-W
+    second: {fileID: 2100000, guid: 3b48777c60c48364e9e920f82dd1ee23, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
