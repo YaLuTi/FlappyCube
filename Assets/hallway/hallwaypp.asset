@@ -77,7 +77,7 @@ MonoBehaviour:
       useCameraFov: 0
       kernelSize: 1
   motionBlur:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       shutterAngle: 270
       sampleCount: 10
@@ -100,16 +100,16 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0.26
-        threshold: 0.78
-        softKnee: 0.339
-        radius: 1.64
+        intensity: 0.15
+        threshold: 1.1
+        softKnee: 0.5
+        radius: 1.35
         antiFlicker: 0
       lensDirt:
         texture: {fileID: 0}
         intensity: 3
   colorGrading:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       tonemapping:
         tonemapper: 2
@@ -308,16 +308,16 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       spectralTexture: {fileID: 0}
-      intensity: 0.505
+      intensity: 0.217
   grain:
     m_Enabled: 1
     m_Settings:
       colored: 1
-      intensity: 0.243
-      size: 0.76
-      luminanceContribution: 0.188
+      intensity: 0.527
+      size: 0.48
+      luminanceContribution: 0.202
   vignette:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       mode: 0
       color: {r: 0, g: 0, b: 0, a: 1}
